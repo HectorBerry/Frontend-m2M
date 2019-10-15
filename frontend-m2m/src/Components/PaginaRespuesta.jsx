@@ -1,5 +1,5 @@
 import React from 'react';
-
+import './PaginaRespuesta.css';
 
 export default class PaginaRespuesta extends React.Component() {
     constructor(props) {
